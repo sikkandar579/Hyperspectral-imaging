@@ -1,5 +1,6 @@
 # Hyperspectral-imaging
 Detection of Pesticides Residues in Lady's finger using hyperspectral imaging
+
 Objective:
 -> The objective of this project was to classify lady's finger (okra) into four distinct categories based on pesticide concentration: pure (without insecticide), low concentration (1 mg/L), medium concentration (3 mg/L), and high concentration (5 mg/L). To achieve this, we prepared samples by applying different concentrations of the insecticide M Power to lady's finger.
 
